@@ -1,0 +1,85 @@
+.nav-link{
+    font-size: 25px;
+    font-weight: 100px;
+}
+
+.form-control::placeholder{
+    color:white
+}
+
+.lead{
+    font-size: 27px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 45px;
+}
+
+h1{
+    font-size: 60px
+}
+
+.services-title1{
+    font-size: 25px;
+}
+
+.services-title2{
+    font-size: 70px;
+}
+
+.services-caption{
+    font-size: 25px;
+}
+
+.caption{
+    font-size: 25px
+}
+
+hr{
+    color: #dc3545;
+}
+
+#web-developer{
+    color: #dc3545;
+}
+
+#portfolio{
+    color: #dc3545;
+}
+
+.p-red{
+    color: #dc3545;
+}
+
+#collaborate{
+    color: #dc3545;
+    font-size: 80px;
+}
+
+.skills-header{
+    font-size: 60px;
+}
+
+#home{
+    font-weight: 800;
+}
+
+.skills-caption{
+    font-size: 23px
+}
+
+#portfolio2{
+    color: #dc3545;
+}
+
+.project-feature-header{
+    font-size: 70px;
+}
+
+.little-lemon-title{
+    color: red;
+}
